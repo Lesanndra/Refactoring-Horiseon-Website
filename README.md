@@ -29,5 +29,9 @@ The Horiseon website was refactored for web accessibility. Some of the factors t
 ## Website
 https://lesanndra.github.io/Refactoring-Horiseon-Website/
 
+## Screenshot
+![Getting Started](./assets/images/Horiseon%20Image%20Snapshot.png)
+
+
 ## Contribution
 Made by Lesanndra Morton
